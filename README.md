@@ -1,23 +1,9 @@
-### ARENA [slack channel](https://info-arena.github.io/ARENA_img/slack.html)
+This repo contains my work through the notebooks of Arena.
 
-* Please report any errors/concerns with the material in #errata.
+It's cloned from the official Arena Materials. You can see my progress by going through each notebook.
 
-# Install Instructions
+Below is an overview of the different contents of ARENA (note that I have not gone through the entire thing, please check the appropriate notebooks for more info). I plan to eventually release my notes on a different repo once I review them.
 
-1) Clone the repo
-```
-git clone https://github.com/ARENA-education/ARENA_materials.git
-```
-2) Run the install script
-```
-ARENA_materials/install.sh
-```
-
-This GitHub repo hosts the exercises and Streamlit pages for the ARENA program.
-
-You can find a summary of each of the chapters below. For more detailed information (including the different ways you can access the exercises), click on the links in the chapter headings.
-
-Scroll to the end to see our instructions for submitting PRs.
 
 # [Chapter 0: Fundamentals](https://learn.arena.education/chapter0_fundamentals/)
 
